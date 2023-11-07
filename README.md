@@ -2,6 +2,7 @@
 Finding relavance of stock and article
 <br>
 #Task
+
 Given article title data of certain company(in this case 'SK'), find the relavance of news data and stock price(consider if the stock price will increase or decrease)..
 
 <br>
