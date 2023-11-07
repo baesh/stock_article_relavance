@@ -51,7 +51,7 @@ Result of 'news_train_1.py' (don't regulate rate of stock increasing and decreas
 <br>
 Too much overfitting -> can't predict stock price only with article title data
 
-
+<br>
 <br>
 #etc
 
