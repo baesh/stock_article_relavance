@@ -1,5 +1,6 @@
 # stock_article_relavance
 Finding relavance of stock and article
+
 <br>
 #Task
 
@@ -23,7 +24,7 @@ Given article title data of certain company(in this case 'SK'), find the relavan
 
 -Allocate number to stemmers by their appearance number
 
-
+<br>
 #Codes
 
 -Get stock, trading volume data: sk_stock_tradingvolume.py
