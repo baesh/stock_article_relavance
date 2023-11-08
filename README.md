@@ -1,5 +1,5 @@
 # stock_article_relevance
-Finding relavance of stock and article
+Finding relevance of stock and article
 
 <br>
 #Task
