@@ -1,4 +1,4 @@
-# stock_article_relavance
+# stock_article_relevance
 Finding relavance of stock and article
 
 <br>
